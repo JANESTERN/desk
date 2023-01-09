@@ -11,6 +11,7 @@
 ### git -v
 + confirms whether the local repository and the remote repository connected successfuly
 ### git push origin ( name of your branch)
-+ adding or pushing all the chnages made in your local repository to you remote repository
++ adding or pushing all the chnages made in your local repository to your remote repository
++ now you get to open your github and see well
 
 
